@@ -8,6 +8,7 @@
 * [Installation](#install)
 * [Usage](#use)
 * [Testing](#test)
+* [Demo](#demo)
 * [Contributors](#contributors)
 * [Contact](#info)
 * [License](#license)
@@ -24,6 +25,9 @@ To view all employee data and manipulate it.
 ## Testing: <a name="test"></a>
 
 > npm test
+## Demo: <a name="demo"></a>
+
+![pic of my project](https://github.com/collinlanie12/mysql/blob/master/img/employee.png)
 ## Contributors: <a name="contributors"></a>
 
 Collin Lanier
